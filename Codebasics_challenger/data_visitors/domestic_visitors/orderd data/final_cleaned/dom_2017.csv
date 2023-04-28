@@ -1,0 +1,373 @@
+,district,date,month,year,visitors
+0,Adilabad,01-01-2017,January,2017,318799
+1,Adilabad,01-02-2017,February,2017,83316
+2,Adilabad,01-03-2017,March,2017,27508
+3,Adilabad,01-04-2017,April,2017,13946
+4,Adilabad,01-05-2017,May,2017,11752
+5,Adilabad,01-06-2017,June,2017,26859
+6,Adilabad,01-07-2017,July,2017,52386
+7,Adilabad,01-08-2017,August,2017,34876
+8,Adilabad,01-09-2017,September,2017,42699
+9,Adilabad,01-10-2017,October,2017,41666
+10,Adilabad,01-11-2017,November,2017,117322
+11,Adilabad,01-12-2017,December,2017,54251
+12,Bhadradri Kothagudem ,01-01-2017,January,2017,302315
+13,Bhadradri Kothagudem ,01-02-2017,February,2017,251359
+14,Bhadradri Kothagudem ,01-03-2017,March,2017,243943
+15,Bhadradri Kothagudem ,01-04-2017,April,2017,667459
+16,Bhadradri Kothagudem ,01-05-2017,May,2017,311626
+17,Bhadradri Kothagudem ,01-06-2017,June,2017,351742
+18,Bhadradri Kothagudem ,01-07-2017,July,2017,258114
+19,Bhadradri Kothagudem ,01-08-2017,August,2017,316438
+20,Bhadradri Kothagudem ,01-09-2017,September,2017,381784
+21,Bhadradri Kothagudem ,01-10-2017,October,2017,334504
+22,Bhadradri Kothagudem ,01-11-2017,November,2017,281515
+23,Bhadradri Kothagudem ,01-12-2017,December,2017,393518
+24,Hyderabad,01-01-2017,January,2017,1924695
+25,Hyderabad,01-02-2017,February,2017,1886698
+26,Hyderabad,01-03-2017,March,2017,1783903
+27,Hyderabad,01-04-2017,April,2017,2366793
+28,Hyderabad,01-05-2017,May,2017,2266793
+29,Hyderabad,01-06-2017,June,2017,2007060
+30,Hyderabad,01-07-2017,July,2017,1890870
+31,Hyderabad,01-08-2017,August,2017,1976980
+32,Hyderabad,01-09-2017,September,2017,2011280
+33,Hyderabad,01-10-2017,October,2017,2202316
+34,Hyderabad,01-11-2017,November,2017,1971438
+35,Hyderabad,01-12-2017,December,2017,4871416
+36,Jagtial ,01-01-2017,January,2017,174477
+37,Jagtial ,01-02-2017,February,2017,159659
+38,Jagtial ,01-03-2017,March,2017,323658
+39,Jagtial ,01-04-2017,April,2017,330540
+40,Jagtial ,01-05-2017,May,2017,468038
+41,Jagtial ,01-06-2017,June,2017,418103
+42,Jagtial ,01-07-2017,July,2017,247254
+43,Jagtial ,01-08-2017,August,2017,386458
+44,Jagtial ,01-09-2017,September,2017,143102
+45,Jagtial ,01-10-2017,October,2017,248504
+46,Jagtial ,01-11-2017,November,2017,348042
+47,Jagtial ,01-12-2017,December,2017,393566
+48,Jangaon ,01-01-2017,January,2017,12280
+49,Jangaon ,01-02-2017,February,2017,12610
+50,Jangaon ,01-03-2017,March,2017,8450
+51,Jangaon ,01-04-2017,April,2017,9788
+52,Jangaon ,01-05-2017,May,2017,12130
+53,Jangaon ,01-06-2017,June,2017,13750
+54,Jangaon ,01-07-2017,July,2017,16050
+55,Jangaon ,01-08-2017,August,2017,15680
+56,Jangaon ,01-09-2017,September,2017,15600
+57,Jangaon ,01-10-2017,October,2017,16130
+58,Jangaon ,01-11-2017,November,2017,16360
+59,Jangaon ,01-12-2017,December,2017,16880
+60,Jayashankar Bhoopalpally,01-01-2017,January,2017,96560
+61,Jayashankar Bhoopalpally,01-02-2017,February,2017,96850
+62,Jayashankar Bhoopalpally,01-03-2017,March,2017,81400
+63,Jayashankar Bhoopalpally,01-04-2017,April,2017,90700
+64,Jayashankar Bhoopalpally,01-05-2017,May,2017,91150
+65,Jayashankar Bhoopalpally,01-06-2017,June,2017,93650
+66,Jayashankar Bhoopalpally,01-07-2017,July,2017,94700
+67,Jayashankar Bhoopalpally,01-08-2017,August,2017,118350
+68,Jayashankar Bhoopalpally,01-09-2017,September,2017,112600
+69,Jayashankar Bhoopalpally,01-10-2017,October,2017,115250
+70,Jayashankar Bhoopalpally,01-11-2017,November,2017,116800
+71,Jayashankar Bhoopalpally,01-12-2017,December,2017,723000
+72,Jogulamba Gadwal ,01-01-2017,January,2017,214887
+73,Jogulamba Gadwal ,01-02-2017,February,2017,481110
+74,Jogulamba Gadwal ,01-03-2017,March,2017,155013
+75,Jogulamba Gadwal ,01-04-2017,April,2017,131426
+76,Jogulamba Gadwal ,01-05-2017,May,2017,131426
+77,Jogulamba Gadwal ,01-06-2017,June,2017,160182
+78,Jogulamba Gadwal ,01-07-2017,July,2017,160182
+79,Jogulamba Gadwal ,01-08-2017,August,2017,131485
+80,Jogulamba Gadwal ,01-09-2017,September,2017,123733
+81,Jogulamba Gadwal ,01-10-2017,October,2017,152898
+82,Jogulamba Gadwal ,01-11-2017,November,2017,188170
+83,Jogulamba Gadwal ,01-12-2017,December,2017,214887
+84,Kamareddy ,01-01-2017,January,2017,58
+85,Kamareddy ,01-02-2017,February,2017,50
+86,Kamareddy ,01-03-2017,March,2017,41
+87,Kamareddy ,01-04-2017,April,2017,46
+88,Kamareddy ,01-05-2017,May,2017,60
+89,Kamareddy ,01-06-2017,June,2017,41
+90,Kamareddy ,01-07-2017,July,2017,41
+91,Kamareddy ,01-08-2017,August,2017,40
+92,Kamareddy ,01-09-2017,September,2017,41
+93,Kamareddy ,01-10-2017,October,2017,38
+94,Kamareddy ,01-11-2017,November,2017,43
+95,Kamareddy ,01-12-2017,December,2017,41
+96,Karimnagar ,01-01-2017,January,2017,14425
+97,Karimnagar ,01-02-2017,February,2017,10845
+98,Karimnagar ,01-03-2017,March,2017,9625
+99,Karimnagar ,01-04-2017,April,2017,8630
+100,Karimnagar ,01-05-2017,May,2017,8890
+101,Karimnagar ,01-06-2017,June,2017,10542
+102,Karimnagar ,01-07-2017,July,2017,12350
+103,Karimnagar ,01-08-2017,August,2017,10952
+104,Karimnagar ,01-09-2017,September,2017,7576
+105,Karimnagar ,01-10-2017,October,2017,8371
+106,Karimnagar ,01-11-2017,November,2017,8705
+107,Karimnagar ,01-12-2017,December,2017,13065
+108,Khammam,01-01-2017,January,2017,132528
+109,Khammam,01-02-2017,February,2017,115470
+110,Khammam,01-03-2017,March,2017,101878
+111,Khammam,01-04-2017,April,2017,135920
+112,Khammam,01-05-2017,May,2017,138799
+113,Khammam,01-06-2017,June,2017,138158
+114,Khammam,01-07-2017,July,2017,105102
+115,Khammam,01-08-2017,August,2017,129159
+116,Khammam,01-09-2017,September,2017,140821
+117,Khammam,01-10-2017,October,2017,155943
+118,Khammam,01-11-2017,November,2017,110800
+119,Khammam,01-12-2017,December,2017,137825
+120,Komaram Bheem Asifabad,01-01-2017,January,2017,2241
+121,Komaram Bheem Asifabad,01-02-2017,February,2017,2490
+122,Komaram Bheem Asifabad,01-03-2017,March,2017,2767
+123,Komaram Bheem Asifabad,01-04-2017,April,2017,3074
+124,Komaram Bheem Asifabad,01-05-2017,May,2017,3416
+125,Komaram Bheem Asifabad,01-06-2017,June,2017,3796
+126,Komaram Bheem Asifabad,01-07-2017,July,2017,3713
+127,Komaram Bheem Asifabad,01-08-2017,August,2017,3665
+128,Komaram Bheem Asifabad,01-09-2017,September,2017,3934
+129,Komaram Bheem Asifabad,01-10-2017,October,2017,14050
+130,Komaram Bheem Asifabad,01-11-2017,November,2017,3627
+131,Komaram Bheem Asifabad,01-12-2017,December,2017,4218
+132,Mahabubabad ,01-01-2017,January,2017,13260
+133,Mahabubabad ,01-02-2017,February,2017,13045
+134,Mahabubabad ,01-03-2017,March,2017,9100
+135,Mahabubabad ,01-04-2017,April,2017,9140
+136,Mahabubabad ,01-05-2017,May,2017,10220
+137,Mahabubabad ,01-06-2017,June,2017,10130
+138,Mahabubabad ,01-07-2017,July,2017,10170
+139,Mahabubabad ,01-08-2017,August,2017,12520
+140,Mahabubabad ,01-09-2017,September,2017,13140
+141,Mahabubabad ,01-10-2017,October,2017,13750
+142,Mahabubabad ,01-11-2017,November,2017,13560
+143,Mahabubabad ,01-12-2017,December,2017,13780
+144,Mahbubnagar,01-01-2017,January,2017,446135
+145,Mahbubnagar,01-02-2017,February,2017,805392
+146,Mahbubnagar,01-03-2017,March,2017,178256
+147,Mahbubnagar,01-04-2017,April,2017,208694
+148,Mahbubnagar,01-05-2017,May,2017,214209
+149,Mahbubnagar,01-06-2017,June,2017,179210
+150,Mahbubnagar,01-07-2017,July,2017,179099
+151,Mahbubnagar,01-08-2017,August,2017,215229
+152,Mahbubnagar,01-09-2017,September,2017,180675
+153,Mahbubnagar,01-10-2017,October,2017,196103
+154,Mahbubnagar,01-11-2017,November,2017,259060
+155,Mahbubnagar,01-12-2017,December,2017,426167
+156,Mancherial,01-01-2017,January,2017,2937
+157,Mancherial,01-02-2017,February,2017,3130
+158,Mancherial,01-03-2017,March,2017,2775
+159,Mancherial,01-04-2017,April,2017,1513
+160,Mancherial,01-05-2017,May,2017,1424
+161,Mancherial,01-06-2017,June,2017,2119
+162,Mancherial,01-07-2017,July,2017,33591
+163,Mancherial,01-08-2017,August,2017,26104
+164,Mancherial,01-09-2017,September,2017,24297
+165,Mancherial,01-10-2017,October,2017,37671
+166,Mancherial,01-11-2017,November,2017,25737
+167,Mancherial,01-12-2017,December,2017,30328
+168,Medak ,01-01-2017,January,2017,523000
+169,Medak ,01-02-2017,February,2017,543321
+170,Medak ,01-03-2017,March,2017,548535
+171,Medak ,01-04-2017,April,2017,554864
+172,Medak ,01-05-2017,May,2017,556891
+173,Medak ,01-06-2017,June,2017,561469
+174,Medak ,01-07-2017,July,2017,575300
+175,Medak ,01-08-2017,August,2017,632830
+176,Medak ,01-09-2017,September,2017,696113
+177,Medak ,01-10-2017,October,2017,765724
+178,Medak ,01-11-2017,November,2017,842296
+179,Medak ,01-12-2017,December,2017,926526
+180,Medchal ,01-01-2017,January,2017,
+181,Medchal ,01-02-2017,February,2017,
+182,Medchal ,01-03-2017,March,2017,
+183,Medchal ,01-04-2017,April,2017,
+184,Medchal ,01-05-2017,May,2017,
+185,Medchal ,01-06-2017,June,2017,
+186,Medchal ,01-07-2017,July,2017,
+187,Medchal ,01-08-2017,August,2017,
+188,Medchal ,01-09-2017,September,2017,
+189,Medchal ,01-10-2017,October,2017,
+190,Medchal ,01-11-2017,November,2017,
+191,Medchal ,01-12-2017,December,2017,
+192,Nagarkurnool ,01-01-2017,January,2017,382879
+193,Nagarkurnool ,01-02-2017,February,2017,286258
+194,Nagarkurnool ,01-03-2017,March,2017,184508
+195,Nagarkurnool ,01-04-2017,April,2017,183697
+196,Nagarkurnool ,01-05-2017,May,2017,183697
+197,Nagarkurnool ,01-06-2017,June,2017,180010
+198,Nagarkurnool ,01-07-2017,July,2017,180010
+199,Nagarkurnool ,01-08-2017,August,2017,181861
+200,Nagarkurnool ,01-09-2017,September,2017,118010
+201,Nagarkurnool ,01-10-2017,October,2017,201050
+202,Nagarkurnool ,01-11-2017,November,2017,188786
+203,Nagarkurnool ,01-12-2017,December,2017,382879
+204,Nalgonda,01-01-2017,January,2017,4447
+205,Nalgonda,01-02-2017,February,2017,8652
+206,Nalgonda,01-03-2017,March,2017,8054
+207,Nalgonda,01-04-2017,April,2017,44295
+208,Nalgonda,01-05-2017,May,2017,10750
+209,Nalgonda,01-06-2017,June,2017,37879
+210,Nalgonda,01-07-2017,July,2017,21361
+211,Nalgonda,01-08-2017,August,2017,9363
+212,Nalgonda,01-09-2017,September,2017,17465
+213,Nalgonda,01-10-2017,October,2017,36066
+214,Nalgonda,01-11-2017,November,2017,17687
+215,Nalgonda,01-12-2017,December,2017,25897
+216,Nirmal,01-01-2017,January,2017,340311
+217,Nirmal,01-02-2017,February,2017,415326
+218,Nirmal,01-03-2017,March,2017,442057
+219,Nirmal,01-04-2017,April,2017,274132
+220,Nirmal,01-05-2017,May,2017,297233
+221,Nirmal,01-06-2017,June,2017,340359
+222,Nirmal,01-07-2017,July,2017,328101
+223,Nirmal,01-08-2017,August,2017,340430
+224,Nirmal,01-09-2017,September,2017,528540
+225,Nirmal,01-10-2017,October,2017,388644
+226,Nirmal,01-11-2017,November,2017,369365
+227,Nirmal,01-12-2017,December,2017,340585
+228,Nizamabad,01-01-2017,January,2017,613
+229,Nizamabad,01-02-2017,February,2017,1752
+230,Nizamabad,01-03-2017,March,2017,660
+231,Nizamabad,01-04-2017,April,2017,1048
+232,Nizamabad,01-05-2017,May,2017,1341
+233,Nizamabad,01-06-2017,June,2017,2391
+234,Nizamabad,01-07-2017,July,2017,1520
+235,Nizamabad,01-08-2017,August,2017,1583
+236,Nizamabad,01-09-2017,September,2017,933
+237,Nizamabad,01-10-2017,October,2017,6644
+238,Nizamabad,01-11-2017,November,2017,1677
+239,Nizamabad,01-12-2017,December,2017,1787
+240,Peddapalli,01-01-2017,January,2017,1345
+241,Peddapalli,01-02-2017,February,2017,1378
+242,Peddapalli,01-03-2017,March,2017,965
+243,Peddapalli,01-04-2017,April,2017,750
+244,Peddapalli,01-05-2017,May,2017,640
+245,Peddapalli,01-06-2017,June,2017,885
+246,Peddapalli,01-07-2017,July,2017,1095
+247,Peddapalli,01-08-2017,August,2017,1385
+248,Peddapalli,01-09-2017,September,2017,1155
+249,Peddapalli,01-10-2017,October,2017,1595
+250,Peddapalli,01-11-2017,November,2017,1940
+251,Peddapalli,01-12-2017,December,2017,1765
+252,Rajanna Sircilla ,01-01-2017,January,2017,615842
+253,Rajanna Sircilla ,01-02-2017,February,2017,1255569
+254,Rajanna Sircilla ,01-03-2017,March,2017,1030441
+255,Rajanna Sircilla ,01-04-2017,April,2017,1146782
+256,Rajanna Sircilla ,01-05-2017,May,2017,1117228
+257,Rajanna Sircilla ,01-06-2017,June,2017,1113882
+258,Rajanna Sircilla ,01-07-2017,July,2017,462022
+259,Rajanna Sircilla ,01-08-2017,August,2017,1004410
+260,Rajanna Sircilla ,01-09-2017,September,2017,487060
+261,Rajanna Sircilla ,01-10-2017,October,2017,845620
+262,Rajanna Sircilla ,01-11-2017,November,2017,1191129
+263,Rajanna Sircilla ,01-12-2017,December,2017,1649362
+264,Ranga Reddy,01-01-2017,January,2017,
+265,Ranga Reddy,01-02-2017,February,2017,
+266,Ranga Reddy,01-03-2017,March,2017,
+267,Ranga Reddy,01-04-2017,April,2017,
+268,Ranga Reddy,01-05-2017,May,2017,
+269,Ranga Reddy,01-06-2017,June,2017,
+270,Ranga Reddy,01-07-2017,July,2017,
+271,Ranga Reddy,01-08-2017,August,2017,
+272,Ranga Reddy,01-09-2017,September,2017,
+273,Ranga Reddy,01-10-2017,October,2017,
+274,Ranga Reddy,01-11-2017,November,2017,
+275,Ranga Reddy,01-12-2017,December,2017,
+276,Sangareddy ,01-01-2017,January,2017,195000
+277,Sangareddy ,01-02-2017,February,2017,140000
+278,Sangareddy ,01-03-2017,March,2017,275000
+279,Sangareddy ,01-04-2017,April,2017,215000
+280,Sangareddy ,01-05-2017,May,2017,215000
+281,Sangareddy ,01-06-2017,June,2017,180000
+282,Sangareddy ,01-07-2017,July,2017,195000
+283,Sangareddy ,01-08-2017,August,2017,295000
+284,Sangareddy ,01-09-2017,September,2017,200000
+285,Sangareddy ,01-10-2017,October,2017,232000
+286,Sangareddy ,01-11-2017,November,2017,324500
+287,Sangareddy ,01-12-2017,December,2017,356950
+288,Siddipet,01-01-2017,January,2017,80500
+289,Siddipet,01-02-2017,February,2017,80500
+290,Siddipet,01-03-2017,March,2017,80500
+291,Siddipet,01-04-2017,April,2017,80500
+292,Siddipet,01-05-2017,May,2017,80500
+293,Siddipet,01-06-2017,June,2017,60000
+294,Siddipet,01-07-2017,July,2017,88550
+295,Siddipet,01-08-2017,August,2017,97405
+296,Siddipet,01-09-2017,September,2017,107146
+297,Siddipet,01-10-2017,October,2017,117861
+298,Siddipet,01-11-2017,November,2017,129647
+299,Siddipet,01-12-2017,December,2017,142612
+300,Suryapet,01-01-2017,January,2017,0
+301,Suryapet,01-02-2017,February,2017,0
+302,Suryapet,01-03-2017,March,2017,0
+303,Suryapet,01-04-2017,April,2017,0
+304,Suryapet,01-05-2017,May,2017,0
+305,Suryapet,01-06-2017,June,2017,0
+306,Suryapet,01-07-2017,July,2017,0
+307,Suryapet,01-08-2017,August,2017,0
+308,Suryapet,01-09-2017,September,2017,0
+309,Suryapet,01-10-2017,October,2017,0
+310,Suryapet,01-11-2017,November,2017,0
+311,Suryapet,01-12-2017,December,2017,0
+312,Vikarabad,01-01-2017,January,2017,
+313,Vikarabad,01-02-2017,February,2017,
+314,Vikarabad,01-03-2017,March,2017,
+315,Vikarabad,01-04-2017,April,2017,
+316,Vikarabad,01-05-2017,May,2017,
+317,Vikarabad,01-06-2017,June,2017,
+318,Vikarabad,01-07-2017,July,2017,
+319,Vikarabad,01-08-2017,August,2017,
+320,Vikarabad,01-09-2017,September,2017,
+321,Vikarabad,01-10-2017,October,2017,
+322,Vikarabad,01-11-2017,November,2017,
+323,Vikarabad,01-12-2017,December,2017,
+324,Wanaparthy ,01-01-2017,January,2017,22152
+325,Wanaparthy ,01-02-2017,February,2017,22342
+326,Wanaparthy ,01-03-2017,March,2017,20050
+327,Wanaparthy ,01-04-2017,April,2017,11502
+328,Wanaparthy ,01-05-2017,May,2017,11502
+329,Wanaparthy ,01-06-2017,June,2017,19092
+330,Wanaparthy ,01-07-2017,July,2017,19092
+331,Wanaparthy ,01-08-2017,August,2017,21375
+332,Wanaparthy ,01-09-2017,September,2017,35860
+333,Wanaparthy ,01-10-2017,October,2017,21234
+334,Wanaparthy ,01-11-2017,November,2017,18348
+335,Wanaparthy ,01-12-2017,December,2017,22152
+336,Warangal (Rural),01-01-2017,January,2017,8000
+337,Warangal (Rural),01-02-2017,February,2017,8300
+338,Warangal (Rural),01-03-2017,March,2017,7800
+339,Warangal (Rural),01-04-2017,April,2017,7600
+340,Warangal (Rural),01-05-2017,May,2017,8500
+341,Warangal (Rural),01-06-2017,June,2017,9000
+342,Warangal (Rural),01-07-2017,July,2017,13600
+343,Warangal (Rural),01-08-2017,August,2017,13650
+344,Warangal (Rural),01-09-2017,September,2017,13800
+345,Warangal (Rural),01-10-2017,October,2017,16500
+346,Warangal (Rural),01-11-2017,November,2017,16300
+347,Warangal (Rural),01-12-2017,December,2017,21200
+348,Warangal (Urban),01-01-2017,January,2017,130608
+349,Warangal (Urban),01-02-2017,February,2017,126608
+350,Warangal (Urban),01-03-2017,March,2017,118298
+351,Warangal (Urban),01-04-2017,April,2017,107133
+352,Warangal (Urban),01-05-2017,May,2017,109915
+353,Warangal (Urban),01-06-2017,June,2017,111530
+354,Warangal (Urban),01-07-2017,July,2017,116545
+355,Warangal (Urban),01-08-2017,August,2017,116810
+356,Warangal (Urban),01-09-2017,September,2017,117150
+357,Warangal (Urban),01-10-2017,October,2017,119255
+358,Warangal (Urban),01-11-2017,November,2017,119360
+359,Warangal (Urban),01-12-2017,December,2017,126790
+360,Yadadri Bhongir,01-01-2017,January,2017,678000
+361,Yadadri Bhongir,01-02-2017,February,2017,540500
+362,Yadadri Bhongir,01-03-2017,March,2017,525588
+363,Yadadri Bhongir,01-04-2017,April,2017,570000
+364,Yadadri Bhongir,01-05-2017,May,2017,458700
+365,Yadadri Bhongir,01-06-2017,June,2017,685880
+366,Yadadri Bhongir,01-07-2017,July,2017,481240
+367,Yadadri Bhongir,01-08-2017,August,2017,680720
+368,Yadadri Bhongir,01-09-2017,September,2017,678925
+369,Yadadri Bhongir,01-10-2017,October,2017,683500
+370,Yadadri Bhongir,01-11-2017,November,2017,537600
+371,Yadadri Bhongir,01-12-2017,December,2017,481075
